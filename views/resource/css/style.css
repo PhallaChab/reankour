@@ -1,0 +1,49 @@
+.banner img{
+	height:308px;
+}
+.search {
+	background:#fff;
+	border: 1px solid #ddd;
+	position: relative;
+	margin:6px 20px 0 0;
+	height: 60px;
+}
+.search input[type="text"] {
+	border: none;
+	outline: none;
+	background: none;
+	font-size:18px;
+	color:#777;
+	padding:10px;
+	margin-top: 7px;
+}
+.search button{
+	border: none;
+    outline: none;
+    cursor: pointer;
+    background: url(../images/search.png) no-repeat 0px 3px;
+    width: 30px;
+    height: 25px;
+    margin-top: 14px;
+    float: right;
+}
+.hotline{
+	margin-top: 27px;
+}
+/*menu style*/
+#myNavbar{
+	background: #85ceef;
+}
+.navbar-nav li a:hover{
+	font-weight: bold;
+}
+.navbar-nav li a{
+	font-size: 18px;
+	padding-left:20px;
+}
+.navbar-nav li{
+	margin-left: 100px;
+}
+.container-fluid{
+	background: #85ceef;
+}

@@ -18,89 +18,89 @@
     }
 </style>
 
-
-<div class="container">
-<div class="row">
-    <div class="col-sm-4">
-        <div class="carousel-inner" role="listbox">
-            <div class="item active">
-                <img src="resource/images/img1.jpg" alt="Image">
+<div class="main">
+    <div class="wrap">
+    <div class="col-md-12">
+        <div class="col-md-2"></div>
+        <a href="general.php">
+          <div class="col-md-3">
+                <p class="menu">ចំណេះដឹងទូទៅ</p>
+          </div>
+        </a>
+        <a href="forienglang.php">
+            <div class="col-md-3">
+                <p class="menu">ភាសាបរទេស</p>
             </div>
-        </div>
-    </div>
-    <div class="col-sm-8">
-        <div class="carousel-inner" role="listbox">
-            <div class="banner">
-                <img src="resource/images/banner2.png" alt="Image">
+        </a>
+        <a href="sport.php">
+            <div class="col-md-3">
+                <p class="menu">សិល្បៈ នឹង កីឡា</p>
             </div>
+        </a>
+        <div class="col-md-2"></div>
+    </div>
+  </div>
+</div>
+<div class="clear"></div>
+<div class="main">
+    <div class="wrap">
+      <div class="col-sm-12">
+          <div class="col-sm-4">
+                <div style="height:270px; background: #fbfbfb">
+                    <p class="text1">Hello All Teacher!</p>
+                </div>
+                <div style="height:270px; background: #85ceef;">
+                    <p class="text1">Contact Us: 012 123 456</p>
+                </div>
+                <div>
+                    <img src="resource/images/teacher.jpg" style="width:100%;" alt="Image">
+                </div>
+          </div>
+          <div class="col-sm-8">
+              <div class="banner1">
+                  <img src="resource/images/banner1.jpg" width="100%" alt="Image">
+              </div>
+              <div class="well">
+                  <h3 class="text-center">What we do</h3>
+                  <p>We are providing you with quality school and teacher.</p>
+              </div>
+          </div>
+      </div>
+      <br/>
+      <hr>
+        <div class="text-center">    
+          <h3>Our Partners</h3>
+          <br>
+          <div class="col-sm-12">
+            <div class="col-sm-2 col-xs-4">
+              <img src="resource/images/1.jpg" class="img-responsive" alt="Image">
+              <p>School 1</p>
+            </div>
+            <div class="col-sm-2 col-xs-4"> 
+              <img src="resource/images/2.jpg" class="img-responsive" alt="Image">
+              <p>School 2</p>    
+            </div>
+            <div class="col-sm-2 col-xs-4"> 
+              <img src="resource/images/3.jpg" class="img-responsive" alt="Image">
+              <p>School 3</p>
+            </div>
+            <div class="col-sm-2 col-xs-4"> 
+              <img src="resource/images/1.jpg" class="img-responsive" alt="Image">
+              <p>School 4</p>
+            </div>
+            <div class="col-sm-2 col-xs-4"> 
+              <img src="resource/images/1.jpg" class="img-responsive" alt="Image">
+              <p>School 4</p>
+            </div>
+            <div class="col-sm-2 col-xs-4"> 
+              <img src="resource/images/1.jpg" class="img-responsive" alt="Image">
+              <p>School 4</p>
+            </div>
+          </div>
         </div>
+        <div class="clear"></div>
     </div>
-<!-- <hr> -->
 </div>
-
-<div class="container text-center">    
-  <h3>What we do</h3>
-  <br>
-  <div class="row">
-    <div class="col-sm-3">
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-      <p>Current Project</p>
-    </div>
-    <div class="col-sm-3"> 
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-      <p>Project 2</p>    
-    </div>
-    <div class="col-sm-3">
-      <div class="well">
-       <p>Some text..</p>
-      </div>
-      <div class="well">
-       <p>Some text..</p>
-      </div>
-    </div>
-    <div class="col-sm-3">
-      <div class="well">
-       <p>Some text..</p>
-      </div>
-      <div class="well">
-       <p>Some text..</p>
-      </div>
-    </div>  
-  </div>
-  <hr>
-</div>
-
-<div class="container text-center">    
-  <h3>Our Partners</h3>
-  <br>
-  <div class="row">
-    <div class="col-sm-2">
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-      <p>Partner 1</p>
-    </div>
-    <div class="col-sm-2"> 
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-      <p>Partner 2</p>    
-    </div>
-    <div class="col-sm-2"> 
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-      <p>Partner 3</p>
-    </div>
-    <div class="col-sm-2"> 
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-      <p>Partner 4</p>
-    </div> 
-    <div class="col-sm-2"> 
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-      <p>Partner 5</p>
-    </div>     
-    <div class="col-sm-2"> 
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-      <p>Partner 6</p>
-    </div> 
-  </div>
-</div><br>
-
 <?php
   include ("template/footer.php");
 ?>

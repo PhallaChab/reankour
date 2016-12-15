@@ -1,0 +1,34 @@
+@media (max-width:1366px){
+	.wrap{
+		width:75%;
+	}
+}
+@media (max-width:1280px){
+	.wrap{
+		width:90%;
+	}
+}
+@media (max-width:1024px){
+	.wrap{
+		width:90%;
+	}
+}
+@media (max-width:800px){
+	.wrap{
+		width:90%;
+	}
+}
+@media (max-width:768px){
+	.wrap{
+		width:97%;
+	}
+}
+@media (max-width:640px){
+	
+}
+@media (max-width:480px){
+
+}
+@media (max-width:320px){
+
+}
